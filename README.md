@@ -1,2 +1,2 @@
 # 20201cse0606
-a new git
+a new gitclear
